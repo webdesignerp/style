@@ -1,0 +1,33 @@
+body{
+    background: #B3B3B3;
+}
+header{
+    text-align: center;
+    background: #666666;
+    color: blue;
+    font-family: serif;
+}
+h1{
+    color: #ffffff;
+    font-size: 150%;
+}
+h2{
+    color: blueviolet;
+    font-family: sans-serif;
+    background: #ffff00;
+    
+}
+nav{
+    font-variant: small-caps;
+    font-family: serif;
+    font-size: 120%;
+}
+summary{
+    font-style: normal;
+}
+details{
+    font-style: inherit;
+}
+footer{
+    background: #666666;
+}
